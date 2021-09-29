@@ -569,6 +569,11 @@
 		<false/>
 		<key>EmbeddedThemeType</key>
 		<string>Dark</string>
+		<key>Hide</key>
+		<array>
+			<string>Preboot</string>
+			<string>Recovery</string>
+		</array>
 		<key>KbdPrevLang</key>
 		<true/>
 		<key>Mouse</key>
@@ -1102,7 +1107,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>FVF908104QX0000UE</string>
+		<string>FVF916310CD00001H</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -1132,9 +1137,9 @@
 		<key>ProductName</key>
 		<string>MacBookPro15,4</string>
 		<key>SerialNumber</key>
-		<string>FVFY9VYML40Y</string>
+		<string>FVFYL4YBL40Y</string>
 		<key>SmUUID</key>
-		<string>C53E303F-B03C-4B08-B925-2A9D0CF3DA8E</string>
+		<string>E0018A49-8789-4A6E-AAFB-63A52D8CB2AF</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
