@@ -171,7 +171,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>dart=0 -wegnoegpu igfxonln=1 watchdog=0 -no_compat_check alcid=3 -vi2c-force-polling -v</string>
+		<string>dart=0 -wegnoegpu igfxonln=1 watchdog=0 -no_compat_check alcid=3 -vi2c-force-polling -v keepsyms=1 swd_panic=1</string>
 		<key>CustomLogo</key>
 		<false/>
 		<key>Debug</key>
@@ -195,7 +195,7 @@
 		<key>StrictHibernate</key>
 		<false/>
 		<key>Timeout</key>
-		<integer>12</integer>
+		<integer>15</integer>
 		<key>XMPDetection</key>
 		<integer>0</integer>
 	</dict>
@@ -572,6 +572,7 @@
 		<key>Hide</key>
 		<array>
 			<string>Preboot</string>
+			<string>MAC-WIN</string>
 			<string>Recovery</string>
 		</array>
 		<key>KbdPrevLang</key>
@@ -1101,17 +1102,17 @@
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>MBP154.88Z.F000.B00.2109052207</string>
+		<string>MBP152.88Z.F000.B00.2109052151</string>
 		<key>Board-ID</key>
-		<string>Mac-53FDB3D8DB8CA971</string>
+		<string>Mac-827FB448E656EC26</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>FVF916310CD00001H</string>
+		<string>C02839902CDJH4R8C</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
-		<string>MacBookPro15,4</string>
+		<string>MacBookPro15,2</string>
 		<key>ChassisAssetTag</key>
 		<string>Asset Tag#</string>
 		<key>ChassisManufacturer</key>
@@ -1135,11 +1136,11 @@
 		<key>PlatformFeature</key>
 		<string>0x32</string>
 		<key>ProductName</key>
-		<string>MacBookPro15,4</string>
+		<string>MacBookPro15,2</string>
 		<key>SerialNumber</key>
-		<string>FVFYL4YBL40Y</string>
+		<string>C02XG0Q8JHCC</string>
 		<key>SmUUID</key>
-		<string>E0018A49-8789-4A6E-AAFB-63A52D8CB2AF</string>
+		<string>C5A8BD48-91DF-4EA9-B433-73F0336059EB</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
