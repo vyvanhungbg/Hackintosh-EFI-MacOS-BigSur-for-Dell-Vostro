@@ -72,9 +72,9 @@
 			<key>Fn Keys Mode 1</key>
 			<dict>
 				<key>BrightnessDown</key>
-				<string>F5</string>
+				<string>F1</string>
 				<key>BrightnessUp</key>
-				<string>F6</string>
+				<string>F2</string>
 				<key>KBBacklightDown</key>
 				<string>F3</string>
 				<key>KBBacklightUp</key>
@@ -90,11 +90,11 @@
 				<key>Misson Control</key>
 				<string>F3</string>
 				<key>SleepDisplay</key>
-				<string>F1</string>
+				<string>F5</string>
 				<key>Touchpad</key>
 				<string>Pause</string>
 				<key>VideoMirror</key>
-				<string>F2</string>
+				<string>F6</string>
 				<key>VolumeDown</key>
 				<string>F11</string>
 				<key>VolumeMute</key>
@@ -131,16 +131,16 @@
 				<key>VideoMirror</key>
 				<string>F8</string>
 				<key>VolumeDown</key>
-				<string>F11</string>
+				<string>F12</string>
 				<key>VolumeMute</key>
 				<string>F10</string>
 				<key>VolumeUp</key>
-				<string>F12</string>
+				<string>F11</string>
 			</dict>
 			<key>Fn keys Layout</key>
-			<string>NONE</string>
+			<string>LENOVO</string>
 			<key>Fn keys Mode</key>
-			<integer>2</integer>
+			<integer>0</integer>
 			<key>IOClass</key>
 			<string>ApplePS2Keyboard</string>
 			<key>IOProviderClass</key>
@@ -156,9 +156,9 @@
 				<key>Enable Sierra Caps Lock Fix</key>
 				<true/>
 				<key>FinerFnBrightnessControl</key>
-				<true/>
+				<false/>
 				<key>FinerFnVolumeControl</key>
-				<true/>
+				<false/>
 				<key>Make Caps Lock into key</key>
 				<integer>0</integer>
 				<key>Make ISO keypad key . to ,</key>
@@ -166,7 +166,7 @@
 				<key>Make Num Lock into Clear</key>
 				<false/>
 				<key>Make context menu key into key</key>
-				<integer>84</integer>
+				<integer>29</integer>
 				<key>Make delete key into cmd + backspace</key>
 				<false/>
 				<key>Make right alt into key</key>
@@ -178,7 +178,7 @@
 				<key>Num Lock enabled at boot</key>
 				<false/>
 				<key>Swap alt and windows key</key>
-				<true/>
+				<false/>
 			</dict>
 			<key>ProductID</key>
 			<integer>782</integer>
