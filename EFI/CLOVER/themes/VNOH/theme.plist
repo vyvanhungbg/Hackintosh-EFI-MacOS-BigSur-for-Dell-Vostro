@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>Author</key>
-	<string>Badruzeus</string>
+	<string>Thanhnguyen</string>
 	<key>Description</key>
-	<string>Clover theme with macOS Catalina look and feel. Version: 1.1</string>
+	<string>Clover theme with macOS Big Sur look and feel. Version: 2.0</string>
 	<key>Theme</key>
 	<dict>
 		<key>Background</key>
@@ -82,8 +82,8 @@
 		</dict>
 	</dict>
 	<key>Version</key>
-	<string>1.1</string>
+	<string>2.0</string>
 	<key>Year</key>
-	<string>2019</string>
+	<string>2021</string>
 </dict>
 </plist>

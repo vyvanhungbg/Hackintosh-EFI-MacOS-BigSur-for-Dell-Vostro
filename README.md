@@ -1,5 +1,5 @@
 # EFI-MACOS
-- Cấu hình cho máy Dell Vostro 
+- Cấu hình cho máy Dell Vostro cài MacOS Big Sur
 Đã fix 
   + Backlight
   + Wakelib
@@ -10,10 +10,11 @@
   + Full gesture trackpad
   + Maping USB
   + Imessage
-  + HeadPhone chưa ổn định
+  
   + Extend Display
   
 Chưa fix 
   + Air drop
+  + HeadPhone chưa ổn định
   
  
