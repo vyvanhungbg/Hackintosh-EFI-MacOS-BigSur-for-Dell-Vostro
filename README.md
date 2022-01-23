@@ -1,20 +1,27 @@
 # EFI-MACOS
-- Cấu hình cho máy Dell Vostro cài MacOS Big Sur
-Đã fix 
+- Configuration for Dell Vostro I5-8265U, Graphics 630 
+
+
+Work
   + Backlight
   + Wakelib
   + Sleep
   + Sound, Mic
-  + Bluetouth
+  + Bluetooth
   + Wifi
   + Full gesture trackpad
   + Maping USB
   + Imessage
-  
+  + Apple ID
+  + Graphics
   + Extend Display
+  + Map USB port
   
-Chưa fix 
+  Don't work 
   + Air drop
-  + HeadPhone chưa ổn định
+  + HeadPhone jack 3.5 Unstable
   
- 
+  
+  Based
+   + https://dortania.github.io/OpenCore-Install-Guide
+   + https://bitbucket.org/RehabMan/
