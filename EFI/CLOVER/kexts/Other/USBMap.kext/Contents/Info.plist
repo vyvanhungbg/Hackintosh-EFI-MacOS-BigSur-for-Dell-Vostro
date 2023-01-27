@@ -37,7 +37,7 @@
 				</dict>
 			</dict>
 			<key>IOProviderClass</key>
-			<string>AppleUSBXHCIPCI</string>
+			<string>AppleIntelCNLUSBXHCI</string>
 			<key>IOProviderMergeProperties</key>
 			<dict>
 				<key>kUSBMuxEnabled</key>
@@ -50,15 +50,6 @@
 				<dict>
 					<key>HS01</key>
 					<dict>
-						<key>#port</key>
-						<data>
-						AQAAAA==
-						</data>
-						<key>UsbConnector</key>
-						<integer>3</integer>
-					</dict>
-					<key>HS02</key>
-					<dict>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
@@ -66,7 +57,7 @@
 						AgAAAA==
 						</data>
 					</dict>
-					<key>HS03</key>
+					<key>HS02</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>3</integer>
@@ -75,16 +66,7 @@
 						AwAAAA==
 						</data>
 					</dict>
-					<key>HS04</key>
-					<dict>
-						<key>#port</key>
-						<data>
-						BAAAAA==
-						</data>
-						<key>UsbConnector</key>
-						<integer>3</integer>
-					</dict>
-					<key>HS05</key>
+					<key>HS03</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>3</integer>
@@ -93,7 +75,7 @@
 						BQAAAA==
 						</data>
 					</dict>
-					<key>HS06</key>
+					<key>HS04</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>3</integer>
@@ -102,7 +84,7 @@
 						BgAAAA==
 						</data>
 					</dict>
-					<key>HS07</key>
+					<key>HS05</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>3</integer>
@@ -110,33 +92,6 @@
 						<data>
 						CgAAAA==
 						</data>
-					</dict>
-					<key>SS01</key>
-					<dict>
-						<key>#port</key>
-						<data>
-						DQAAAA==
-						</data>
-						<key>UsbConnector</key>
-						<integer>3</integer>
-					</dict>
-					<key>SS02</key>
-					<dict>
-						<key>#port</key>
-						<data>
-						DgAAAA==
-						</data>
-						<key>UsbConnector</key>
-						<integer>255</integer>
-					</dict>
-					<key>SS03</key>
-					<dict>
-						<key>#port</key>
-						<data>
-						EAAAAA==
-						</data>
-						<key>UsbConnector</key>
-						<integer>3</integer>
 					</dict>
 				</dict>
 			</dict>
